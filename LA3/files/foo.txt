@@ -1,0 +1,28 @@
+{
+  "args": {}, 
+  "data": "{\n  \"args\": {}, \n  \"data\": \"'{\\\"Assignment\\\":1}'\", \n  \"files\": {}, \n  \"form\": {}, \n  \"headers\": {\n    \"Content-Length\": \"18\", \n    \"Content-Type\": \"Application/json\", \n    \"Host\": \"httpbin.org\"\n  }, \n  \"json\": null, \n  \"origin\": \"184.160.92.210, 184.160.92.210\", \n  \"url\": \"https://httpbin.org/post\"\n}\n", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept-Language": "en", 
+    "Content-Length": "302", 
+    "Content-Type": "text/html", 
+    "Host": "httpbin.org"
+  }, 
+  "json": {
+    "args": {}, 
+    "data": "'{\"Assignment\":1}'", 
+    "files": {}, 
+    "form": {}, 
+    "headers": {
+      "Content-Length": "18", 
+      "Content-Type": "Application/json", 
+      "Host": "httpbin.org"
+    }, 
+    "json": null, 
+    "origin": "184.160.92.210, 184.160.92.210", 
+    "url": "https://httpbin.org/post"
+  }, 
+  "origin": "184.160.92.210, 184.160.92.210", 
+  "url": "https://httpbin.org/post"
+}

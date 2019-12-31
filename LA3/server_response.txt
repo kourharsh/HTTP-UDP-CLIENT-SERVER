@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK Host: localhost
+Content-Disposition: attachment
+Content-Type: application/json
+Content-Length: 81
+Accept-language: en
+
+[".DS_Store", "file.json", "foo.txt", "foo", "06335546.pdf", "bar", "output.txt"]

@@ -1,0 +1,1 @@
+I am Thread no. 0 and I am writing the file.
